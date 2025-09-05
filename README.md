@@ -48,7 +48,7 @@ MySQL (running on port 3306)
 Git
 A package manager: npm or yarn
 
-Demo (Vercel link): 
+Demo (Vercel link): https://ui-iv9q.vercel.app/
 
 USE SAMPLE DATA 
 Admin: admin@storerate.com / Admin123! (Rajesh Kumar Sharma)
