@@ -4,9 +4,9 @@ A complete web application built from scratch that allows users to submit and vi
 
 📖 Table of Contents
 
-✨ Features
-🚀 Tech Stack
-📋 Prerequisites
+✨ Features  🚀 Tech Stack  📋 Prerequisites
+
+
 
 ✨ Features
 👤 Normal User
