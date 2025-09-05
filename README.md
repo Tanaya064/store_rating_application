@@ -1,4 +1,5 @@
 Store-Rating-App-Roxiler (Full-Stack Application)
+Demo (Vercel link): https://ui-iv9q.vercel.app/
 
 A complete web application built from scratch that allows users to submit and view ratings for stores. The platform features a robust role-based access control system, providing tailored experiences for Normal Users, Store Owners, and System Administrators.
 
@@ -48,7 +49,7 @@ MySQL (running on port 3306)
 Git
 A package manager: npm or yarn
 
-Demo (Vercel link): https://ui-iv9q.vercel.app/
+
 
 
 USE SAMPLE DATA 
