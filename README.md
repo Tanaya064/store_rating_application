@@ -50,7 +50,10 @@ A package manager: npm or yarn
 
 Demo (Vercel link): https://ui-iv9q.vercel.app/
 
+
 USE SAMPLE DATA 
 Admin: admin@storerate.com / Admin123! (Rajesh Kumar Sharma)
+
 User: priya@email.com / User123! (Priya Anand Patil)
+
 Owner: arjun@coffeeshop.com / Owner123! (Arjun Vishwas Deshmukh)
