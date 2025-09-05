@@ -33,7 +33,7 @@ Creation Capabilities: Create new users (any role) and stores via protected endp
 
 🚀 Tech Stack
 
-Frontend: React (Vite), Tailwind CSS
+Frontend: React, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MySQL
 Authentication: JWT + bcrypt
