@@ -1,9 +1,20 @@
 Store-Rating-App-Roxiler (Full-Stack Application)
+
 Demo (Vercel link): https://ui-iv9q.vercel.app/
 
-A complete web application built from scratch that allows users to submit and view ratings for stores. The platform features a robust role-based access control system, providing tailored experiences for Normal Users, Store Owners, and System Administrators.
+
+USE SAMPLE DATA 
+Admin: admin@storerate.com / Admin123! (Rajesh Kumar Sharma)
+
+User: priya@email.com / User123! (Priya Anand Patil)
+
+Owner: arjun@coffeeshop.com / Owner123! (Arjun Vishwas Deshmukh)
+
+
 
 📖 Table of Contents
+A complete web application built from scratch that allows users to submit and view ratings for stores. The platform features a robust role-based access control system, providing tailored experiences for Normal Users, Store Owners, and System Administrators.
+
 
 ✨ Features  🚀 Tech Stack  📋 Prerequisites
 
@@ -35,10 +46,16 @@ Creation Capabilities: Create new users (any role) and stores via protected endp
 🚀 Tech Stack
 
 Frontend: React, Tailwind CSS
+
 Backend: Node.js, Express.js
+
 Database: MySQL
+
 Authentication: JWT + bcrypt
+
 Environment Management: dotenv
+
+
 
 📋 Prerequisites
 
@@ -52,9 +69,4 @@ A package manager: npm or yarn
 
 
 
-USE SAMPLE DATA 
-Admin: admin@storerate.com / Admin123! (Rajesh Kumar Sharma)
 
-User: priya@email.com / User123! (Priya Anand Patil)
-
-Owner: arjun@coffeeshop.com / Owner123! (Arjun Vishwas Deshmukh)
