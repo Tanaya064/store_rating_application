@@ -53,8 +53,6 @@ Database: MySQL
 
 Authentication: JWT + bcrypt
 
-Environment Management: dotenv
-
 
 
 📋 Prerequisites
